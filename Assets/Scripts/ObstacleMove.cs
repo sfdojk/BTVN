@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class Move : MonoBehaviour
+public class ObstacleMove : MonoBehaviour
 {
     [SerializeField] private float speed;
     [SerializeField] private float lifeTime;
